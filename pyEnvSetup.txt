@@ -1,0 +1,14 @@
+python3.10 -m venv venv
+
+# to activate the venv
+source venv/bin/activate
+
+# Install packages from a file
+pip3 install -r requirements.txt
+
+# to a install required package
+python3 -m pip install <module name>
+
+# and it will install the module in the virtual env
+# to deactivate the venv
+deactivate
