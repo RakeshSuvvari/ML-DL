@@ -69,7 +69,7 @@ Like exploring a city without a guide:
 
 ---
 
-## 🔵 2. Linear Regression
+## 🟢 2. Linear Regression
 
 * **Type:** Supervised Learning (Regression)
 * **Purpose:** Predicts continuous numeric values
