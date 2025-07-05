@@ -69,7 +69,7 @@ cd ML-DL
 ### 2. Create and activate a virtual environment
 
 ```bash
-python3 -m venv venv
+python3.10 -m venv venv
 source venv/bin/activate   # or .\venv\Scripts\activate on Windows
 ```
 
@@ -88,7 +88,7 @@ pip install -r requirements.txt
 * Navigate to the specific folder (e.g., `MachineLearning/3.Logistic_Regression.py`) and run the script:
 
 ```bash
-python path/to/script.py
+python3.10 path/to/script.py
 ```
 
 * Jupyter Notebooks are also included for some visualizations and experiments.
